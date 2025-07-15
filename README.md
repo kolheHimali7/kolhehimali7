@@ -1,7 +1,7 @@
 [![MasterHead](https://in.pinterest.com/pin/isometric-data-analysis-by-oleksii-kolosov--326299935502160715/)](https://kolhehimali7.io)
 <h1 align="center">Hi 👋, I'm Himali kolhe</h1>
-<h3 align="center">A data analyst & data scientist form India</h3>
-<img align="right" alt="Coding" width="400" src="lottiefiles.com/free-animation/girl-on-computer-with-idea-vKx1wtZe5l"
+<h3 align="center">A data analyst & data scientist from India</h3>
+<img align="right" alt="Coding" width="400" src="https://lottiefiles.com/free-animation/girl-on-computer-with-idea-vKx1wtZe5l"
 
 - 🌱 I’m currently learning **deep learning ,AI**
 
